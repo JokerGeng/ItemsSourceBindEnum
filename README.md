@@ -1,0 +1,2 @@
+# ItemsSourceBindEnum
+wpf 界面中集合控件数据源绑定到一个枚举类型作为下拉选择
